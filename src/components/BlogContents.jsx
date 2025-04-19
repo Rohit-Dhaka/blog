@@ -27,7 +27,7 @@ const BlogContents = () => {
             <h6 className="text-[#6941C6] font-Inter text-[14px]  font-semibold leading-[20px] pt-8 pb-3">
               {blog.category}
             </h6>
-            <h3 className="text-[#101828] text-[48px]  leading-[32px] font-semibold pb-8">
+            <h3 className="text-[#101828] text-[48px]  sm:leading-[32px] font-semibold pb-8">
               {blog.title}
             </h3>
             <p className="font-Inter text-[#667085] leading-[24px] font-normal ">
